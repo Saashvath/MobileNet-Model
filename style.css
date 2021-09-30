@@ -1,0 +1,86 @@
+body{
+    background-color:lightpink;
+}
+
+.headerdiv img{
+
+    height: 80px;
+    width: 80px;
+}
+
+.headerdiv label {
+
+font-size: 30px;
+color: skyblue;
+}
+
+.headerdiv{
+    background-color:whitesmoke;
+}
+
+.main_div label{
+
+font-size: 20px;
+color:royalblue;
+background-color:mediumaquamarine;
+width :300px;
+line-height: 35px;
+
+}
+
+.main_div button{
+    width: 300px;
+    font-size: 20px;
+    box-shadow: 5px 5px 18px red;
+    border :1px solid
+
+}
+#camera,#result{
+
+    width: 300px;
+    height: 300px;
+    border: 3px dashed;
+}
+
+.main_div{
+    background-color: firebrick;
+    padding: 10px;
+    height: 500px;
+    margin-top: 15px;
+    border: 2px solid whitesmoke;
+}
+
+#check_button{
+
+  box-shadow:7px 7px 18px dodgerblue ;
+  font-size:20px;
+    border: 1px maroon;
+}
+
+
+
+#bulb{
+    width: 80px;
+    
+}
+.object_div{
+
+    background-color: white;
+    color: black;
+    margin-top: 5px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 16px crimson ;
+
+}
+
+    .footer_div{
+
+        width:100%;
+        font-size: 40px;
+        color: black;
+        background-color:teal;
+        bottom: 0px;
+        position: fixed;
+        line-height: 5px;
+        text-align: center;
+    }
